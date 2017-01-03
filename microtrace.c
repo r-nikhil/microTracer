@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <sys/ptrace.h>
 #include <stdlib.h>
+#include <sys/wait.h>
+// #include <sys/reg.h>
+#include <sys/types.h>
 
 
 
